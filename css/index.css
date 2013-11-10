@@ -1,0 +1,125 @@
+body{
+	background-color: black;
+	background-image:url('../img/background-image5.jpg');
+	min-width: 800px;
+	color: #1E90FF;
+}
+
+#main{
+	margin-left: 10%;
+	margin-right: 10%;
+}
+
+#header{
+	margin: 20px;
+	height: 75px;
+}
+
+#header_name{
+	font-size: 32px;
+	margin-bottom: 0px;
+	padding-bottom: 0px;
+	font-style: italic;
+	font-weight: bold;
+}
+
+#header_info{
+	margin-top: 0px;
+	padding-top 0px;
+	margin-left: 20px;
+	font-size: 22px;
+	font-style: italic;
+}
+
+#header-tabs{
+	margin-left: 20px;
+	margin-right: 20px;
+	text-align: center;
+}
+
+#profile_pic{
+	height: 175px;
+	width: 175px; 
+	float: right;
+	padding-right: 50px;
+}
+
+.tab-pane{
+	margin-left: 40px;
+	margin-right: 40px;
+/*	border: 2px solid black; */
+}
+
+.resume-header{
+	color: gray;
+	font-size: 22px;
+	font-weight: bold;
+	text-decoration: underline;
+	margin-top: 0px;
+}
+
+.resume-position{
+	color: #008080;
+	font-size: 18px;
+	font-style: italic;
+}
+
+.resume-company{
+ 	color: #008080;
+ 	font-size: 24px;
+ 	font-weight: bold;
+}
+
+.resume-date{
+  	color: cyan;
+}
+
+.resume-description{
+	color: grey;
+}
+
+.resume_pic{
+	width: 75px;
+	height: 75px;
+	float: left;
+}
+
+.resume-column-left{
+	width: 75px;
+	min-height: 0px;
+}
+
+.resume-column-right{
+	margin-left: 100px;
+	min-height: 75px;
+}
+
+div{
+	border: black 0px solid;
+}
+
+hr{
+	background-color:#444;
+border-width:0;
+color:#444;
+height:2px;
+line-height:0;
+margin:-.5em 10px 1.8571em 10px;
+page-break-after:always;
+text-align:center;
+width:80%;
+}
+
+.social_media_logo{
+	height: 75x;
+	width: 75px;
+}
+
+#social_media_logo_wrapper{
+	margin-top: 150px;
+	text-align: center;
+}
+
+#contact_body{
+	color: gray;
+}
